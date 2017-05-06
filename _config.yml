@@ -3,13 +3,18 @@
 menu:
   主页: /
   随笔: /tags/随笔/
+  LeetCode: /tags/leetcode/
+  Java: /tags/java/
+  笔记: /tags/笔记/
+  收藏: /tags/收藏/
+  JavaScript: /tags/javascript/
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "http://www.github.com/londbell"
+  weibo: "http://www.weibo.com/londbell"
+  zhihu: "https://www.zhihu.com/people/londbell/"
+  google: "https://londbell.github.io/FlappyFrog/"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -68,8 +73,9 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: "http://londbell.github.io/imgs/avatar.jpg"
 
+tags: /tags
 #是否开启分享
 share_jia: true
 
