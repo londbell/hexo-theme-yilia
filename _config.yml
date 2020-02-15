@@ -73,7 +73,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: "http://londbell.github.io/imgs/avatar.jpg"
+avatar: "https://cdn.jsdelivr.net/gh/londbell/pic/img/banagher-links.jpg"
 
 tags: /tags
 #是否开启分享
